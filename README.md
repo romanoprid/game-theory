@@ -1,1 +1,1 @@
-# game-theory
+# Game
